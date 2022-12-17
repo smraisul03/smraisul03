@@ -1,0 +1,42 @@
+portfolioitems:
+  # portfolio category
+  - title:  # Portfolio
+    portfolioitem:
+
+      - name: Barcelona Real Estate Prediction 
+        image: '/images/portfolio/barcelona.jpg'
+        link: https://gohugo.io/
+        linktext: 'Github'
+        description: 'The project aims to use Python and its popular packages to develop a machine learning model that can predict the price of houses in Barcelona. The model will be trained on a dataset of historical housing prices and relevant features, and will be able to make accurate predictions for new properties. This will be useful for buyers and sellers in the real estate market. The project will involve cleaning and preprocessing the data, training and evaluating the model, and using it to make predictions.'
+        tags:
+          - Machine Learning
+          - Data Mining
+        status: 'On Hold'
+#        start: 'October 2022'
+#        end: 'December 2022'
+        authors:
+          - smraisul03
+
+      - name: Facy
+        image: '/images/portfolio/facialrecognition.jpg'
+        link: https://gohugo.io/
+        linktext: 'Github'
+        description: "The application uses Python and the OpenCV package to detect and track a user's face in real time. It uses computer vision techniques to identify the user's face in a video stream, and then follows it as it moves. The application can be used for a variety of purposes, such as monitoring the user's face for security purposes, or visualizing the user's face in augmented reality applications. Overall, the application provides a convenient and reliable way to detect and track faces using Python and OpenCV."
+        tags:
+          - Computer Vision
+          - Artificial Intelligence
+        status: 'Finished'
+        start: 'June 2022'
+        end: 'August 2022'
+        authors:
+          - smraisul03
+
+  # portfolio category
+#  - title: Research
+#    portfolioitem:
+#      - name: Project 1
+#        image: '/images/portfolio/code.jpg'
+#        description: 'This project does not have a link attribute'
+#        tags:
+#          - Tag 1
+#          - Tag 2

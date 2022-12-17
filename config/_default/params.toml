@@ -1,0 +1,88 @@
+
+title = "smraisul03@web ~ %"
+author = "smraisul03@web ~ %"
+#copyright = "2020-2021"
+description = "Interested in Artificial Intelligence, Machine Learning, and Cybersecurity"
+profilePicture = "images/profile.jpg"
+keywords = ""
+favicon = "favicons/"
+
+# example ["css/custom.css"]
+customCss = []
+
+# example ["js/custom.js"]
+customJs = [] 
+
+mainSections = ["post"]
+images = ["images/site-feature-image.png"]
+doNotLoadAnimations = false
+
+# Form Spree Contact Form
+contactFormAction = "https://formspree.io/f/xoqbgzrp"
+#contactFormReCaptcha = "your-site-key-here"
+
+# Google Fonts
+# googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
+
+# Google Site Verify
+#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+
+singleDateFormat = "1/2/2006"
+indexDateFormat = "1/2/2006"
+listDateFormat = "1/2/2006"
+
+# Commento Comments
+# CommentoURL = "https://commento.example.com/js/commento.js"
+
+# Read More links for truncated summaries
+# readMore = true
+# postSectionName = "blog"
+# relatedPosts = true
+# numberOfRelatedPosts = 3
+
+reversepagetitle = true # When set to 'true', the Window Title will be reversed to 'Title | Author' instead of the default 'Author | Title'
+
+# hidesidebar = true
+enableMediumZoom = false
+
+[simpleAnalytics]
+# enable = true
+# customurl = "https://analytics.example.com"
+
+[plausibleAnalytics]
+# domain = "example.com"
+# serverURL = "https://analytics.example.com"
+
+[umami]
+# serverURL = "example.com"
+# id = "94db1cb1-74f4-4a40-ad6c-962362670409"
+
+## Math settings
+[math]
+enable = true  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "mathjax"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/smraisul03"
+
+[[socialIcons]]
+icon = "fab fa-github-square"
+title = "GitHub"
+url = "https://github.com/smraisul03"
+
+[[socialIcons]]
+icon = "fas fa-plus-square"
+title = "resume"
+url = "/SMRaisulAlamBhuiyanResume.pdf/"
+
+[[socialIcons]]
+icon = "fas fa-envelope-square"
+title = "e-mail"
+url = "mailto:smraisul03@gmail.com"
+
+[mermaid]
+enable = true

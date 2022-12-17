@@ -1,0 +1,11 @@
+[submodule "anatole"]
+	path = anatole
+	url = https://github.com/lxndrblz/anatole.git
+[submodule "smraisul03/public"]
+	path = smraisul03/public
+	url = https://github.com/smraisul03/smraisul03.github.io.git
+	branch = main
+[submodule "public/public"]
+	path = public/public
+	url = https://github.com/smraisul03/smraisul03.github.io.git
+	branch = main
