@@ -18,4 +18,4 @@ When the semester first started, I was confused as to what the type of project w
 
 ### Process
 
-So far what we've decided to do, is to first construct the robot, in which we've decided to opt for a kit that was built`
+When it comes to the process of building, constructing, and designing, there are no better practical applications than to absolve to the software & hardware portions. For that aspect, we have decided to go with a pre-made kit, but we have designed it in such a way that that 
