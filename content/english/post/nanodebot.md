@@ -18,4 +18,4 @@ When the semester first started, I was confused as to what the type of project w
 
 ### Process
 
-So far what we've decided to do, is to first construct the robot. 
+So far what we've decided to do, is to first construct the robot, in which we've decided to opt for a kit that was built`
