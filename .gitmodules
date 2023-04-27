@@ -9,3 +9,7 @@
 	path = public/public
 	url = https://github.com/smraisul03/smraisul03.github.io.git
 	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/smraisul03/smraisul03.github.io.git
+	branch = main
