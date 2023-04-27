@@ -4,7 +4,7 @@ portfolioitems:
     portfolioitem:
 
       - name: Nanode Project Bot
-        image: '/images/portfolio/nanode.jpg'
+        image: '/images/portfolio/Nanode.jpg'
         link: https://github.com/nanodeprojectbot
         linktext: 'Github'
         description: 'Nanode is a compact four-wheel robot that utilizes Arduino and low-level hardware to perform basic object detection and facial recognition tasks.'
@@ -17,6 +17,8 @@ portfolioitems:
         end: 'April 2023'
         authors:
           - smraisul03
+          - TommyxTran
+          - Varyiant
 
       - name: Barcelona Real Estate Prediction 
         image: '/images/portfolio/barcelona.jpg'
