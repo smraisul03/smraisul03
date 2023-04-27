@@ -3,9 +3,24 @@ portfolioitems:
   - title:  # Portfolio
     portfolioitem:
 
+      - name: Nanode Project Bot
+        image: '/images/portfolio/nanode.jpg'
+        link: https://github.com/nanodeprojectbot
+        linktext: 'Github'
+        description: 'Nanode is a compact four-wheel robot that utilizes Arduino and low-level hardware to perform basic object detection and facial recognition tasks.'
+        tags:
+          - Computer Architecture
+          - Embedded Developement
+          - Computer Vision
+        status: 'Finished'
+        start: 'Janurary 2023'
+        end: 'April 2023'
+        authors:
+          - smraisul03
+
       - name: Barcelona Real Estate Prediction 
         image: '/images/portfolio/barcelona.jpg'
-        link: https://gohugo.io/
+        link: https://github.com/
         linktext: 'Github'
         description: 'The project aims to use Python and its popular packages to develop a machine learning model that can predict the price of houses in Barcelona. The model will be trained on a dataset of historical housing prices and relevant features, and will be able to make accurate predictions for new properties. This will be useful for buyers and sellers in the real estate market. The project will involve cleaning and preprocessing the data, training and evaluating the model, and using it to make predictions.'
         tags:
@@ -19,7 +34,7 @@ portfolioitems:
 
       - name: Facy
         image: '/images/portfolio/facialrecognition.jpg'
-        link: https://gohugo.io/
+        link: https://github.com/smraisul03/Facy
         linktext: 'Github'
         description: "The application uses Python and the OpenCV package to detect and track a user's face in real time. It uses computer vision techniques to identify the user's face in a video stream, and then follows it as it moves. The application can be used for a variety of purposes, such as monitoring the user's face for security purposes, or visualizing the user's face in augmented reality applications. Overall, the application provides a convenient and reliable way to detect and track faces using Python and OpenCV."
         tags:

@@ -77,7 +77,7 @@ url = "https://github.com/smraisul03"
 [[socialIcons]]
 icon = "fas fa-plus-square"
 title = "resume"
-url = "/SMRaisulAlamBhuiyanResume.pdf/"
+url = "/SMRaisulAlamBhuiyanResume.pdf"
 
 [[socialIcons]]
 icon = "fas fa-envelope-square"
