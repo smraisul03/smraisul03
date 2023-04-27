@@ -15,3 +15,7 @@ Step into the extraordinary world of Nanode, a cutting-edge four-wheel robot pow
 ### Introduction
 
 When the semester first started, I was confused as to what the type of project we wanted to originally build, and so I have teamed up with some of my groupmates, [Ariya Seng](https://github.com/variyant) and [Tom Tran](https://github.com/TommyxTran). We were toying around with some ideas such as a glove hand, or building a 4-bit CPU, but ultimately we have decided to settle on using a robot, by which we have decided to implement some of the concepts in class, such as computer vision and other various concepts throughout the semester. 
+
+### Process
+
+So far what we've decided to do, is to first construct the robot. 
