@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi! I'm Raisul. 
+# Open-Source Enthuiast. Amatuer Programmer. IT Tech.
 
 <!--
 **smraisul03/smraisul03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
